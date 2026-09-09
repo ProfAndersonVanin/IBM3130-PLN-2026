@@ -222,6 +222,12 @@ semana-XX/
 
 </details>
 
+
+---
+
+### Módulo 3 — Extração de Informação `semanas 8–9`
+
+
 <details>
 <summary><strong>Semana 07 · Representações Conceituais — WordNet e BabelNet</strong></summary>
 
@@ -246,9 +252,6 @@ semana-XX/
 
 </details>
 
----
-
-### Módulo 3 — Extração de Informação `semanas 8–9`
 
 <details>
 <summary><strong>Semana 08 · Reconhecimento de Entidades Nomeadas (NER)</strong></summary>
