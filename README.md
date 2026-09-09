@@ -149,7 +149,7 @@ semana-XX/
 
 ---
 
-### Módulo 2 — Representações de Texto `semanas 4–7`
+### Módulo 2 — Representações de Texto `semanas 4–6`
 
 <details>
 <summary><strong>Semana 04 · Bag of Words e TF-IDF ✅ </strong></summary>
@@ -225,7 +225,7 @@ semana-XX/
 
 ---
 
-### Módulo 3 — Extração de Informação `semanas 8–9`
+### Módulo 3 — Extração de Informação `semanas 7–9`
 
 
 <details>
