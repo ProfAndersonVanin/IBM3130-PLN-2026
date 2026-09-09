@@ -68,7 +68,7 @@ semana-XX/
 ### Módulo 1 — Fundamentos e Pré-processamento `semanas 1–3`
 
 <details>
-<summary><strong>Semana 01 · Introdução ao PLN</strong></summary>
+<summary><strong>Semana 01 · Introdução ao PLN ✅ </strong></summary>
 
 **Tópico do programa:** Tópico 1 — Introdução ao Processamento de Linguagem Natural
 
@@ -96,7 +96,7 @@ semana-XX/
 </details>
 
 <details>
-<summary><strong>Semana 02 · Pré-processamento de Texto</strong></summary>
+<summary><strong>Semana 02 · Pré-processamento de Texto ✅ </strong></summary>
 
 **Conteúdo teórico**
 - Pipeline de PLN: do texto bruto ao dado limpo
@@ -121,7 +121,7 @@ semana-XX/
 </details>
 
 <details>
-<summary><strong>Semana 03 · Marcação Morfossintática — POS Tagging</strong></summary>
+<summary><strong>Semana 03 · Marcação Morfossintática — POS Tagging ✅ </strong></summary>
 
 **Tópico do programa:** Tópico 5 — Marcação Morfossintática
 
@@ -152,7 +152,7 @@ semana-XX/
 ### Módulo 2 — Representações de Texto `semanas 4–7`
 
 <details>
-<summary><strong>Semana 04 · Bag of Words e TF-IDF</strong></summary>
+<summary><strong>Semana 04 · Bag of Words e TF-IDF ✅ </strong></summary>
 
 **Tópico do programa:** Tópico 3 — Modelos de Linguagem (parte 1)
 
@@ -175,7 +175,7 @@ semana-XX/
 </details>
 
 <details>
-<summary><strong>Semana 05 · Modelos N-gram e Probabilísticos</strong></summary>
+<summary><strong>Semana 05 · Modelos N-gram e Probabilísticos ✅ </strong></summary>
 
 **Tópico do programa:** Tópico 3 — Modelos de Linguagem (parte 2)
 
@@ -198,7 +198,7 @@ semana-XX/
 </details>
 
 <details>
-<summary><strong>Semana 06 · Word Embeddings — Word2Vec e GloVe</strong></summary>
+<summary><strong>Semana 06 · Word Embeddings — Word2Vec e GloVe ✅ </strong></summary>
 
 **Tópico do programa:** Tópico 2 — Representações Vetoriais de Palavras
 
